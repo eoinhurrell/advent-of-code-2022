@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-import itertools
 from aocd import get_data
 from dotenv import load_dotenv
 
