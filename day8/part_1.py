@@ -1,7 +1,4 @@
 #!/usr/bin/env python3
-from functools import partial, reduce
-from collections import Counter
-
 from aocd import get_data
 from dotenv import load_dotenv
 
